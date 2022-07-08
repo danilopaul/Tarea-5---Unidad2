@@ -21,9 +21,27 @@ Determinar y analizar las características y comportamiento de un circuito, con 
 
 Capitulo 9 y 10:
 
-4. Video:
+2. Evalúe cada determinante:
+
+![image](https://user-images.githubusercontent.com/105687375/177919074-74409dca-8910-4a20-93c7-5a0313d1fc30.png)
+
+4. Evalúe cada uno de los determinantes:
+
+![image](https://user-images.githubusercontent.com/105687375/177919223-b3d68c07-4351-4ec0-9f5f-772b4cf72974.png)
+
+6. Determine I3 en el ejemplo 9-4.
+
+![image](https://user-images.githubusercontent.com/105687375/177919287-f2da2a70-d917-4da3-8f50-42ecec1231e0.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919326-6ee42949-3ec7-4ca1-91b8-0357e1b2e201.png)
+
+8. Vídeo:
 
 5. Conclusiones:
+
+La aplicación de los métodos de análisis de ramas, múltiples lazos que están basados en las leyes de Ohm y leyes de Kirchhoff que son bases para cualquier análisis de circuitos, por lo cual estos métodos son útiles para el análisis de un circuito que tiene dos o más fuentes de voltaje o corriente y a través de ellos determinar cantidades desconocidas en un circuito. 
+
+La inducción electromagnética es importante ya que este forma parte de un componente eléctrico llamado inductor o bobina, además de la presencia de varios conceptos basados en la leyes o hipótesis que fueron propuestos por grandes personajes como son Tesla, Weber y Faraday, para comprender de mejor manera los campos magnéticos y electromagnéticos y como se produce en nuestro alrededor.
 
 6. Bibliografia:
 
