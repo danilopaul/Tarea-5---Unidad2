@@ -399,6 +399,8 @@ produciría voltaje ya que el apéndice de acero o diente saliente no pasa por e
 
 8. Vídeo:
 
+https://youtu.be/spuKNPKyVro
+
 5. Conclusiones:
 
 La aplicación de los métodos de análisis de ramas, múltiples lazos que están basados en las leyes de Ohm y leyes de Kirchhoff que son bases para cualquier análisis de circuitos, por lo cual estos métodos son útiles para el análisis de un circuito que tiene dos o más fuentes de voltaje o corriente y a través de ellos determinar cantidades desconocidas en un circuito. 
