@@ -117,6 +117,17 @@ Se deduce que la corriente que entra es la misma que sale por lo tanto I1=100mA
 
 I2=(100/147)(100)=68.03mA
 
+Método de la corriente en lazos 
+
+16. Escriba el determinante característico para las ecuaciones:
+
+![image](https://user-images.githubusercontent.com/105687375/177920371-61865d24-9c5f-4cac-879f-974e121aee63.png)
+
+Las ecuaciones están ordenadas en la forma estándar, por lo cual su determinante característica es:
+|■( 0,045&0.130&0.066 @ 0.177&0.0420&0.109 @ 0.078&0.196&0.029 )|
+
+
+
 
 
 
