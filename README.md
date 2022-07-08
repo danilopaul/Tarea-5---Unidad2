@@ -409,3 +409,4 @@ La inducción electromagnética es importante ya que este forma parte de un comp
 
 6. Bibliografia:
 
+Floyd, T. (2007). Principios de circuitos electricos. CDMX, México: Pearson
