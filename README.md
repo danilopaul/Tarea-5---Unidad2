@@ -247,15 +247,79 @@ VA=0.97650 V
 
 VB=2.44719 V
 
+30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
+![image](https://user-images.githubusercontent.com/105687375/177921380-f7cbecb6-e198-47d6-8cd7-8dfe52edcedb.png)
 
+Nodo A:I1=I2+I3+I4
 
+(12V-VA)/(1 kΩ)=VA/(1 kΩ)+(VA-VB)/(1 kΩ)+(VA-VC)/(1 kΩ)
 
+12V/(1 kΩ)-VA/(1 kΩ)=VA/(1 kΩ)+VA/(1 kΩ)-VB/(1 kΩ)+VA/(1 kΩ)-VC/(1 kΩ)
 
+0.012=VA/(1 kΩ)+VA/(1 kΩ)+VA/(1 kΩ)+VA/(1 kΩ)-VB/(1 kΩ)-VC/(1 kΩ)
 
+VA/250Ω-VB/1000Ω-VC/1000Ω=0.012
 
+Nodo B:I5=I6+I7
 
+(12V-VB)/(1 kΩ)+(9V-VB)/(1 kΩ)=(VB-VA)/(1 kΩ)
 
+12V/(1 kΩ)-VB/(1 kΩ)+9V/1kΩ-VB/1kΩ=VB/(1 kΩ)-VA/(1 kΩ)
+
+0.012+0.009=3VB/(1 kΩ)-VA/(1 kΩ)
+
+3VB/1000Ω-VA/1000Ω=0.021
+
+Nodo C:I8+I9+I10=0
+
+(9V-VC)/(1 kΩ)+(10V-VC)/(1 kΩ)+(VA-VC)/(1 kΩ)=0
+
+9V/(1 kΩ)-VC/(1 kΩ)+10V/(1 kΩ)-VC/(1 kΩ)+VA/(1 kΩ)-VC/(1 kΩ)=0
+
+VA/(1 kΩ)-VC/(1 kΩ)-VC/(1 kΩ)-VC/(1 kΩ)=19/1000
+
+VA/1000Ω-3VC/1000Ω=19/1000
+
+VA=3.8V
+
+VB=8.27V
+
+VA=5.07V
+
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m^(2) y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?
+
+B=ø/A=(1500µWb)/(0.5 m^2 )=(1500×〖10〗^(-6) Wb)/(0.5 m^2 )=3×〖10〗^(-3) T
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
+
+1T=10000G
+
+1G=〖10〗^(-4)
+
+0.6G×〖10〗^(-4)=6×〖10〗^(-5) T
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+![image](https://user-images.githubusercontent.com/105687375/177921514-53bdceae-7775-451b-9802-a829b563bfb0.png)
+
+Si la corriente que pasa por el conductor se invierte, la rotación de las líneas de fuerza también se invertirían por ende la brújula llegaría a mostrar el lado opuesto. 
+
+8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 × 10 ^(-7) Wb/Atm.
+
+Reluctancia=l/(µA)=0.28m/((150×〖10〗^(-7) Wb/Atm)(0.08m^2))=2.33×〖10〗^5  At/Wb
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+Cuando se llega a energizar un solenoide el émbolo de imán se llega a retraer, como se ve en la figura.
+
+![image](https://user-images.githubusercontent.com/105687375/177921657-de89617d-2631-4d7b-b427-e10844d9f1ac.png)
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+![image](https://user-images.githubusercontent.com/105687375/177921694-9281efa7-5221-4875-8bbe-f81a13e6a357.png)
+
+El circuito esta alimentado por una fuente de voltaje, y si el interruptor 1 (SW1) se cierra permite el paso de la corriente de la fuente hacia la bobina del relevador, la cual energiza el contacto que esta alimentado por 9V haciendo que se cierre y a su vez este ilumine las lámparas 1 y 2.
 
 
 
