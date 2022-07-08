@@ -321,7 +321,81 @@ Cuando se llega a energizar un solenoide el émbolo de imán se llega a retraer,
 
 El circuito esta alimentado por una fuente de voltaje, y si el interruptor 1 (SW1) se cierra permite el paso de la corriente de la fuente hacia la bobina del relevador, la cual energiza el contacto que esta alimentado por 9V haciendo que se cierre y a su vez este ilumine las lámparas 1 y 2.
 
+14.  ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+15.  
+Respuesta del Problema 9. La fuerza Magnetomotriz Fm es:
 
+F_m=N∙I
+
+F_m=50∙3
+
+F_m=150 At
+
+Calculando la fuerza magnetizante (H)
+
+H=F_m/l
+
+H=(150 At)/(0.2 m)
+
+H=750 At/m
+
+16. En la figura 10-44, hay 500 vueltas. Determine
+
+![image](https://user-images.githubusercontent.com/105687375/177922242-cbfe8a57-766a-4e0f-b754-5cd3181449d5.png)
+
+	(Fuerza Magnetizante)
+ 
+H=F_m/l
+
+H=(N∙I)/l
+
+H=(500*0.25)/0.3
+
+H=416.66 At/m
+
+	∅ (Cantidad de Flujo)----R= Reluctancia
+ 
+∅=F_m/R
+
+∅=(500∙0.25)/(1/ur∙A)
+
+∅=(500∙0.25)/(1/250∙4)
+
+∅=1.25 ∙〖10〗^4  At/Wb
+
+	B (Densidad de Flujo Magnetico)
+ 
+B=∅/A
+
+B=(1.25∙〖10〗^4)/4
+
+B=3.125∙〖10〗^3  T
+
+18.  De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+-Si la razón de cambio del flujo magnético se duplica, el voltaje inducido en la bobina también se duplicará, ya que según la ley de Faraday, el voltaje inducido en una bobina es directamente proporcional a la rapidez de cambio del campo magnético.
+
+20. Un campo magnético cambia a razón de 3500 * 10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+V_ind=N((d∅)/dt)
+
+V_ind=500 t(3500 m Wb/s)
+
+V_ind=1750 V
+
+![image](https://user-images.githubusercontent.com/105687375/177922393-15df0ab7-1ae7-406f-87a8-596710b87ca3.png)
+
+produciría voltaje ya que el apéndice de acero o diente saliente no pasa por el entrehierro del imán, entonces al no producir un campo magnético cambiante, no hay voltaje inducido. 
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105687375/177922642-8ec907e2-9bd5-4a9c-b1ff-c49c9b8816b8.png)
+
+- No produciría voltaje ya que el apéndice de acero o diente saliente no pasa por el entrehierro del imán, entonces al no producir un campo magnético cambiante, no hay voltaje inducido. 
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+-Como una rotación tiene cuatro posiciones, entonces el voltaje de cd de salida llega 15 veces cada segundo a su pico alcanzando un voltaje máximo. 
 
 8. Vídeo:
 
