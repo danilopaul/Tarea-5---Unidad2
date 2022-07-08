@@ -8,7 +8,9 @@ Determinar y analizar las características y comportamiento de un circuito, con 
 1.2. Objetivos Especificos:
 
 •	Analizar el comportamiento de la resistencia, voltaje y corriente en un circuito e identificar las posibles fórmulas para resolver las diferentes ecuaciones obtenidas.
+
 •	Analizar los métodos de corriente en ramas, en trayectorias cerradas y el voltaje en nodos, que permitan determinar cantidades desconocidas en un circuito.
+
 •	Conocer los principios del campo magnético y electromagnético para comprender el modo de operación de varios tipos de dispositivos electromagnéticos.
 
 2. Marco teorico:
@@ -64,6 +66,59 @@ V4=4.69
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
 
 ![image](https://user-images.githubusercontent.com/105687375/177919836-13f5172b-1025-43a4-ab51-6a5ca9e7151b.png)
+
+Sistema de Ecuaciones
+
+(8.2) I2+10I2-12=0 (1)
+
+10I2+(5.6) I3-6=0 (2)
+
+Nodo A
+
+0=I1-I2-I3
+
+I1=I2+I3 (3)
+
+Reemplazamos la ecuación (3) en la ecuación (1)
+
+(8.2) (I2+I3) +10I2=12
+
+(18.2) I2+(8.2) I3=12 (4)
+
+Despejamos la ecuación (2)
+
+I2=(6-5.6I3)/10 
+
+Remplazamos I2 en la ecuación (4)
+
+(18.2) ((6-5.6I3)/10)+(8.2) I3=12 
+
+91/125 I3+8.2I3=12 
+
+(18.93) I3=12
+
+I3=0.63 A → 630mA
+
+ I2=(6-5.6(0.63))/10=0.25 A   →250 mA
+ 
+I1=630 mA+250mA 
+
+I1=880 mA
+
+14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
+
+![image](https://user-images.githubusercontent.com/105687375/177920052-a802792b-c3ad-4690-bbe6-d9116ba75ccc.png)
+
+La corriente Is es la misma que pasa R3 
+
+Is=IR3=100 mA
+
+Se deduce que la corriente que entra es la misma que sale por lo tanto I1=100mA
+
+I2=(100/147)(100)=68.03mA
+
+
+
 
 
 8. Vídeo:
