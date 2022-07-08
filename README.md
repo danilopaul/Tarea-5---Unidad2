@@ -124,7 +124,134 @@ Método de la corriente en lazos
 ![image](https://user-images.githubusercontent.com/105687375/177920371-61865d24-9c5f-4cac-879f-974e121aee63.png)
 
 Las ecuaciones están ordenadas en la forma estándar, por lo cual su determinante característica es:
-|■( 0,045&0.130&0.066 @ 0.177&0.0420&0.109 @ 0.078&0.196&0.029 )|
+
+![image](https://user-images.githubusercontent.com/105687375/177920449-1b35412c-6da0-4020-95f7-a9023a6113e5.png)
+
+18. Determine las corrientes de rama en la figura 9-28.
+
+![image](https://user-images.githubusercontent.com/105687375/177920467-826af72b-8b4c-4aec-8e08-221a3a41fdbf.png)
+
+LVK= ∑V=0
+
+ley de Ohm=V=I*R
+
+Ecuación 1:
+
+-2V+1000*I_1+560(I_1-I_2 )+4V=0  
+
+4V+1000*I_1+560*I_1-560I_2=0
+
+4V+1560*I_1-560I_2=0
+
+Ecuación 2:
+
+-4V-560(I_1-I_2 )+820I_2+6V=0
+
+2V-560I_1+560I_2+820I_2=0
+
+2V-560I_1+1380I_2=0
+
+Sistema de ecuaciones:
+
+1560I_1-560I_2=-4
+
+-560I_1+1380I_2=-2
+
+Resolviendo el sistema 
+
+I_1=3.6 mA
+
+I_2=2.9 mA
+
+I_x=I_1-I_2=0.7 mA
+
+20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+
+![image](https://user-images.githubusercontent.com/105687375/177920573-bfe1de33-ba8c-4832-9459-f4f3e08d34d1.png)
+
+Laso A:7I_A+10(I_A-I_B )=1.5
+
+Laso B:10(I_B-I_A )+27I_B+4.7(I_B-I_C )=3
+
+Laso C:-4.7(I_C-I_B )+15I_C=1.5
+
+22. Determine la corriente a través de cada resistor en la figura 9-29
+
+![image](https://user-images.githubusercontent.com/105687375/177920657-cb40d591-0273-4426-bb35-774eee0c07e7.png)
+
+Laso A:7I_A+10(I_A-I_B )=1.5
+
+Laso B:10(I_B-I_A )+27I_B+4.7(I_B-I_C )=3
+
+Laso C:-4.7(I_C-I_B )+15I_C=1.5
+
+Las corrientes son: 
+
+I_A=1.5 mA
+
+I_2=0.16 mA
+
+I_C=0.12 mA
+
+24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+
+Redibujando nuestro circuito:
+
+![image](https://user-images.githubusercontent.com/105687375/177920729-d148d390-58cc-46d0-b028-727fc56eef16.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177920779-09b4307b-0d8e-4937-9627-e216a6d2c93c.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177920841-7830ed73-39cd-4144-853f-8cd469381bf4.png)
+
+Calcular la corriente total:
+
+I_T=(V_5/R_T )=(8V/22.95Ω)=348.5 mA
+
+Divisor de corriente:
+
+I_R6=(V_5/R_6 )*I_T=(22.95Ω/10000Ω)*348.5mA=0.80 mA
+
+Método del voltaje en nodos
+
+26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/105687375/177920889-e0eab3f5-11d8-4db3-992a-81e0e8d9b483.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177920904-b060b8ce-db5f-4ef7-b679-835350b0f8be.png)
+
+IA+IB+IC=0
+
+Por ley de Ohm I=V/R
+
+(VA-30)/82+(VA-40)/68+VA/(100+47)=0
+
+VA/82-30/82+VA/68-40/68+VA/147=0
+
+VA=28.32V
+
+28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
+
+![image](https://user-images.githubusercontent.com/105687375/177920990-62d12a7b-10d2-46a5-8cf9-940c58d22dab.png)
+
+  IA+IB+IC=0
+  
+  (VA-1.5)/47+(VA-VB)/68+VA/(27-10)+VA/10=0
+  
+ID+IE*6IF=0
+
+IA+IB+IC=0
+
+(VB-VA)/27+(VB-3)/(4.7)+(VB-1.5)/15=0
+
+VA=0.97650 V
+
+VB=2.44719 V
+
+
+
+
+
+
 
 
 
