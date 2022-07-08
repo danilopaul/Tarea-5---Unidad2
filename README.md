@@ -35,6 +35,37 @@ Capitulo 9 y 10:
 
 ![image](https://user-images.githubusercontent.com/105687375/177919326-6ee42949-3ec7-4ca1-91b8-0357e1b2e201.png)
 
+*8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+
+![image](https://user-images.githubusercontent.com/105687375/177919420-7ba16d76-358c-4c2f-bd19-b98c47b15f74.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919469-1509253e-d6dc-485e-8b0a-d1ecdf38cee2.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919514-d6d46ca6-7269-4f00-aeaf-7eecf3586a75.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919567-306cf77b-2d9c-441e-b1b7-3469c98f1385.png)
+
+V1=1.61
+
+V2= -1.69
+
+V3=-2.52
+
+V4=4.69
+
+10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
+
+![image](https://user-images.githubusercontent.com/105687375/177919672-9933fa32-45a2-4eae-a5e1-407c29f60cf3.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919715-5daab23c-5985-4ba4-8703-031b82304b4b.png)
+
+![image](https://user-images.githubusercontent.com/105687375/177919759-d4eeed6d-fd74-4e84-9253-4f0f44c42ba4.png)
+
+12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26
+
+![image](https://user-images.githubusercontent.com/105687375/177919836-13f5172b-1025-43a4-ab51-6a5ca9e7151b.png)
+
+
 8. Vídeo:
 
 5. Conclusiones:
